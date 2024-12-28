@@ -1,2 +1,2 @@
 # Capital-Game
-Easy
+Not finish yet
